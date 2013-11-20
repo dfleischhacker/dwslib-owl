@@ -1,1 +1,9 @@
 target/
+### /home/daniel/.gitignore-boilerplates/Global/IntelliJ.gitignore
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+
